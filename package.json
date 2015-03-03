@@ -1,5 +1,5 @@
 {
-  "name": "jp-floating-panel",
+  "name": "floating-panel",
   "version": "0.0.1",
   "description": "A floating panel for Firefox extensions.",
   "main": "index.js",
@@ -10,5 +10,10 @@
     "firefox"
   ],
   "author": "Jeff Griffiths ( @canuckistani )",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "web": "https://github.com/canuckistani/jp-floating-panel",
+    "url": "git@github.com:canuckistani/jp-floating-panel.git"
+  }
 }
