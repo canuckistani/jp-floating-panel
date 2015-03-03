@@ -1,0 +1,14 @@
+{
+  "name": "jp-floating-panel",
+  "version": "0.0.1",
+  "description": "A floating panel for Firefox extensions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jpm -b nightly test"
+  },
+  "keywords": [
+    "firefox"
+  ],
+  "author": "Jeff Griffiths ( @canuckistani )",
+  "license": "MIT"
+}
